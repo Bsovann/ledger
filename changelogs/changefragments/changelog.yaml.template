@@ -1,0 +1,9 @@
+---
+trival_changes:
+  - (component) <Description>.
+minor_changes:
+  - (component) <Description>.
+major_changes:
+  - (component) <Description>.
+bug_fixes:
+  - (component) <Description>.
